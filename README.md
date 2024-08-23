@@ -14,6 +14,9 @@ The Tableau e-commerce sales project focuses on analyzing and visualizing key as
 * Market-wise Customer Acquisition by Month
 
 ## Dashboard Overview
+https://public.tableau.com/views/E-commerce_Dashboard_17179360994700/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ![image](https://github.com/user-attachments/assets/bce5be67-5ba1-49f6-a273-56cad15eaa7a)
 
 **To observe the beneficial influence this will have on our strategic choices, this dashboard offers concise overviews of our performance measures together with useful insights!**
+
+
